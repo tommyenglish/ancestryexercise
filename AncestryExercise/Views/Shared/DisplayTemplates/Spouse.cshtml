@@ -1,0 +1,22 @@
+﻿@model AncestryExercise.ViewModels.Narrative
+@{
+    // this could go in a vm, but it'll do for now.
+    var spouse = Model.Main.Gender == "Male" ? "husband" : Model.Main.Gender == "Female" ? "wife" : "spouse";
+    var tense = Model.Main.DeathYear.HasValue ? "was" : "is";
+}
+@{
+    Layout = null;
+}
+@{
+
+}
+@if(Model.Husbands.Count > 0)
+    {<span>@Model.Main.GivenName @tense the @spouse of @Html.ActionLink(Model.Husbands[0].FullName, "Narrative", new { id=Model.Husbands[0].PersonId }).</span>}
+else if (Model.Wives.Count > 0)
+{
+    {<span>Mr. @Model.Main.Surname @tense the @spouse of @Html.ActionLink(Model.Wives[0].FullName, "Narrative", new { id=Model.Wives[0].PersonId }).</span>}
+}
+else
+{
+    <span>It appears @Model.Main.GivenName was unable to find someone to officially settle down with.</span>
+}

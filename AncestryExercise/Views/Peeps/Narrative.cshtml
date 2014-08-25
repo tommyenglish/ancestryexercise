@@ -1,0 +1,16 @@
+﻿@model AncestryExercise.ViewModels.Narrative
+
+@{
+    ViewBag.Title = "Narrative";
+}
+
+<h2>Narrative for @Model.Main.FullName</h2>
+<p>
+    @Html.DisplayFor(model => model.Main, "LifeDeath")
+</p>
+<p>
+    @Html.DisplayFor(model => model, "Parents")
+</p>
+<p>
+    @Html.DisplayFor(model => model, "Spouse")
+</p>

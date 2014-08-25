@@ -1,0 +1,21 @@
+﻿@model System.Collections.Generic.IEnumerable<AncestryExercise.Models.Peep> 
+@{
+    ViewBag.Title = "Peeps Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>Simple Narrator</h1>
+            </hgroup>
+            <p>
+                Click on a person to see more about them.
+            </p>
+        </div>
+    </section>
+}
+<h3>Ancestry Items:</h3>
+@foreach (var item in Model) {
+    // Just dump out all the names. Not pretty, but it gets the job done.
+    @Html.ActionLink(item.FullName, "Narrative", new { id=item.PersonId })
+}

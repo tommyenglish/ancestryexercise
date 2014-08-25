@@ -1,0 +1,33 @@
+﻿@model AncestryExercise.Models.Peep
+@{
+    // this could go in a vm, but it'll do for now.
+    var pronoun = Model.Gender == "Male" ? "He" : Model.Gender == "Female" ? "She" : Model.Surname;
+    var deathplace = "";
+    if(Model.DeathPlace.Length > 0) {
+        deathplace = Model.DeathPlace;
+    }
+    else {
+        deathplace = "an unknown place";   
+    }
+    var birthyear = Model.BirthYear.HasValue ? Model.BirthYear.ToString() : "a time long forgotten";
+}
+@{
+    Layout = null;
+}
+@{
+    // This is a little funky to get the spacing looking ok.
+}
+<span>@Model.GivenName was born in @birthyear</span>@if (Model.Birthplace.Length > 0)
+    {<span> in @Model.Birthplace. </span>}
+else
+    {<span>. </span>}@if (Model.DeathYear.HasValue)
+    {<span>@pronoun died in @Model.DeathYear in @deathplace</span>
+    if (Model.Age > 1 && Model.Age <= 35)
+        {<span> at the tender age of @Model.Age.</span>}
+    else if (Model.Age > 36 && Model.Age <= 55)
+        {<span> at the age of @Model.Age.</span>}
+    else if (Model.Age > 56)
+        {<span> at the ripe old age of @Model.Age.</span>}
+    else
+        {<span>.</span>}
+}

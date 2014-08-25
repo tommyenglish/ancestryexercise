@@ -1,0 +1,23 @@
+﻿@model AncestryExercise.ViewModels.Narrative
+@{
+    // this could go in a vm, but it'll do for now.
+    var pronoun = Model.Main.Gender == "Male" ? "He" : Model.Main.Gender == "Female" ? "She" : Model.Main.Surname;
+    var child = Model.Main.Gender == "Male" ? "son" : Model.Main.Gender == "Female" ? "daughter" : "child";
+    var tense = Model.Main.DeathYear.HasValue ? "was" : "is";
+}
+@{
+    Layout = null;
+}
+@{
+
+}
+@if(null != Model.Mom && null != Model.Dad)
+    {<span>@pronoun @tense the @child of @Html.ActionLink(Model.Mom.FullName, "Narrative", new { id=Model.Mom.PersonId }) and @Html.ActionLink(Model.Dad.FullName, "Narrative", new { id=Model.Dad.PersonId }).</span>}
+else if(null != Model.Mom)
+{
+    {<span>@pronoun @tense the @child of @Html.ActionLink(Model.Mom.FullName, "Narrative", new { id=Model.Mom.PersonId })</span>}
+}
+else if(null != Model.Dad)
+{
+    {<span>@pronoun @tense the @child of @Html.ActionLink(Model.Dad.FullName, "Narrative", new { id=Model.Dad.PersonId }).</span>}
+}

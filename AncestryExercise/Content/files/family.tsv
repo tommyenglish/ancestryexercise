@@ -1,0 +1,292 @@
+personId	givenName	surname	birthplace	birthyear	deathplace	deathyear	fatherPersonId	motherPersonId	childrenPersonIds	wivesPersonIds	husbandsPersonIds
+0	Pernilla (Mogensson)	Ruther	Salt Lake City, Salt Lake, Utah, USA	1987			1	4		31	
+1	Truls	Ruther	Oregon, USA	1959			23	8	0,2,73	4	
+2	Christine Knudsine Wilhelmina	Ruther		1983			1	4			3
+3	Mary	Abrams		1985						2	
+4	Maria	Grefsheim	Salt Lake City, Salt Lake, Utah, USA	1962			25	26	0,2,73		1
+5	Karl August	Carlstrom		1981			6	7		18	
+6	James	Carlstrom					173		5,12,13,14,15	7	
+7	Kerstin	Ruther					23	8	5,12,13,14,15		6
+8	Kirsti	Grefsheim/Sorbo		1931			87	88	1,7		23
+9	Erik	Eisenbeisz							18,78,79		21
+10	Ronnaug	Fauth							16,20,76,77	11	
+11	Truman Wesley	Sorbo							16,20,76,77		10
+12	Mariah Marie	Carlstrom		1974			6	7	17	16	
+13	Mans	Carlstrom		1978			6	7			19
+14	John	Carlstrom		1973			6	7	71		72
+15	Elna	Carlstrom					6	7	27	28,30	
+16	Even	Clausen					10	11	17		12
+17	Eleanor	Carlstrom					12	16			
+18	Britta	Eisenbeisz					21	9			5
+19	Per	Nissen								13	
+20	Susannah	Lindstrom					10	11	75		22
+21	Benoni	Eisenbeisz							18,78,79	9	
+22	Tua	Bahnmuller							75	20	
+23	Ellin Elna	Ruther	Utah	1932			152	153	1,7	8	
+24	Johanna Petersdotter	Grefsheim		1960			25	26			29
+25	Line Marie	Grefsheim	Richfield, Sevier, Utah, USA	1930	Salt Lake City, Salt Lake, Utah, USA	1979	219	186	4,24	26	
+26	Susanna	Laemmle	Salt Lake City, Salt Lake, Utah, United States	1939	Salt Lake City, Salt Lake, Utah, United States	1992	187	188	4,24		25
+27	Evald Werner	Carlstrom					15	28			
+28	Mrs	Lindstrom							27		15
+29	Rachel	Bartz								24	
+30	Joseph	Grefsheim									15
+31	Kari	Buzan	Fresno, Fresno, California, USA	1991			33	32			0
+32	Elizabeth	Brown	Provo, Utah, Utah, USA				34	35	31,44		33
+33	Betsy	Buzan	Fresno, California				36	143	31,44	32	
+34	Lars	Brown		1940			117	116	32,42,43	35	
+35	Nils	Marvel	San Diego, California	1945			119	118	32,42,43		34
+36	Ole	Buzan		1955			38	37	33,39,40,41	143	
+37	Edwin Ruthven	Buzan							36,52,53,54,55		38
+38	Peder	Levescy							36,52,53,54,55	37	
+39	Tyler James	Buzan		1977			36		47,48,49	46	
+40	Thomas	Buzan					36		51	50	
+41	Else	Buzan	Fresno, California	1979			36			45	
+42	Anders	Brown					34	35			142
+43	Iver Olsen	Brown					34	35			141
+44	Rodney Warren	Buzan	Fresno, California	1994			33	32			
+45	Rae Ann	Lindstrom									41
+46	Knut	Davis							47,48,49		39
+47	Calab	Buzan					39	46			
+48	Annicka	Buzan					39	46			
+49	Diane	Buzan					39	46			
+50	Elin	Lindstrom							51		40
+51	Iver	Buzan					40	50			
+52	Pernilla	Buzan					38	37	57,58,68,69	56,67	
+53	Pehr	Buzan					38	37	60,61	59	
+54	Ephriam	Buzan					38	37	63,64		62
+55	Mrs	Buzan		1959			38	37	66,70		65
+56	Kristen	Lindstrom							57,58		52
+57	Torsten	Buzan					52	56			
+58	Mehitable	Buzan					52	56			
+59	Niels	Lindstrom							60,61		53
+60	Brita	Buzan		1989			53	59			
+61	Jane	Buzan					53	59			
+62	Preben	Ferguson							63,64	54	
+63	Lemaun Davidson	Ferguson					62	54			
+64	Nicholas	Ferguson					62	54			
+65	Sarah	Wooten		1957					66,70	55	
+66	Anders Andersson	Wooten					65	55			
+67		Lindstrom							68,69		52
+68	Jason	Buzan					52	67			
+69	Karin	Buzan					52	67			
+70	Sarah	Wooten					65	55			
+71	Trune	Fenitty	Salt Lake City, Salt Lake, Utah, USA	1999			72	14			
+72	Nathaniel	Fenitty							71	14	
+73	Tora	Ruther		1981			1	4		74	
+74	Mary Ann	Gable									73
+75	Tyler James	Oswalt					22	20			
+76	Adrena Mary Virginia	Harmon					10	11			
+77	Afton	Fauth					10	11			
+78	Peter	Shirer					21	9	81,82,83,84		80
+79	Henry	Boyd					21	9			
+80	Stephen	Shirer							81,82,83,84	78	
+81	Sally Ann	Shirer					80	78			
+82	Brita	Shirer					80	78			
+83	Trued	Shirer					80	78			
+84	Sophia	Moore					80	78			
+85	David Oliver	Grefsheim/Sorbo	Payson, Utah, USA	1928	Kaysville, Davis, Utah	2010	87	88		86	
+86	Kristoffer	Heller									85
+87	Sven	Grefsheim/Sorbo	Salem, UT	1902	Salem, UT	1945	93	94	8,85,89	88	
+88	Violet Christina	Goetz	Mapleton, UT	1905	Salem, UT	1945	91	92	8,85,89		87
+89	Ingar	Grefsheim/Sorbo	Salem, Utah County, Utah, USA	1934			87	88		90	
+90	Tamer	Lindstrom									89
+91	Torsten	Goetz	Bulfer, Durbyshire, England	1862	Springville, Utah, Utah, USA	1922			88,102,103,104,106,107,109,110	92,108	
+92	David	Grefsheimeie	Bellevue, Luzerne, PA	1875	Springville, Utah, Utah, USA	1942	289	290	88,102,103,104,106,107,109,110		91
+93	Soren	Grefsheim/Sorbo	Payson, Utah, Utah, United States	1868	Payson, Utah, Utah, United States	1947			87,95,96,97,98,99,100,101,105,111,112,113	94	
+94	Grace	Kaulum	Switzerland	1870		1936			87,95,96,97,98,99,100,101,105,111,112,113		93
+95	Richard	Grefsheim/Sorbo	Utah	1889		1918	93	94			
+96	Bennajah	Grefsheim/Sorbo	Utah	1891	Utah, Utah	1918	93	94			
+97	Åke	Grefsheim/Sorbo	Utah	1897	Payson, Utah, Utah, United States	1965	93	94			
+98	Edward	Grefsheim/Sorbo	Utah	1899	Salem, Utah, Utah, USA	1911	93	94			
+99	Sally	Grefsheim/Sorbo	Utah	1905	Payson, Utah, Utah, USA	1940	93	94			
+100	Douglas Neil	Grefsheim/Sorbo	Utah	1908	Salt Lake City, Salt Lake, Utah, USA	1982	93	94	115		114
+101	Hezekiah	Grefsheim/Sorbo	Utah	1914			93	94			
+102	Lucinda G	Goetz	Utah	1891			91	92			
+103	Robert	Goetz	Utah	1898			91	92			
+104	Joseph Ozro	Goetz	Utah	1901			91	92			
+105	Clemmets	Grefsheim/Sorbo	Utah	1895	Parowan, Iron, Utah, United States	1940	93	94			
+106	Morton Christian Nielsen	Goetz	Utah	1903			91	92			
+107	Joan	Goetz	Utah	1913			91	92			
+108	Kirstina	Goetz	Utah	1869					102,103,109,110		91
+109	Olof	Goetz	Utah	1895			91	92			
+110	Mrs Guttorm	Goetz	Utah	1893			91	92			
+111	Troen	Grefsheim/Sorbo	Utah	1913	Sun City, Maricopa, Arizona, United States	1987	93	94			
+112	Gustaf Sigurd Andreas	Grefsheim/Sorbo	Salem, Utah, Utah, United States	1910	Salem, Utah, Utah, United States	1910	93	94			
+113	Nilla	Grefsheim/Sorbo		1911		1911	93	94			
+114	Robert Nelson	Lunde	Brigham City, UT	1902		1975			115	100	
+115	Carol	Lunde	Payson, UT	1927		1928	114	100			
+116	Scot Warren	Zorbrogg	Grace, Caribou, Idaho, USA	1919	Santee, San Diego, California, United States of America	1994			34		117
+117	Ellis	Brown	Basalt, Bingham, Idaho, USA	1912	Basalt, Bingham, Idaho, USA	1964	135	131	34	116	
+118	David Wallace	Miller	California	1914	San Diego, San Diego, California	2009	127	128	35,120		119
+119	Amy	Marvel	Salt Lake City, Salt Lake, Utah, USA	1914	San Diego, San Diego, California, USA	1992	122	123	35,120	118	
+120	Martha	Marvel		1949			119	118			121
+121	Harriet Anne	Doles								120	
+122	Jenny Kristina	Marvel	Ogden, Weber, Utah, USA	1883	San Diego, San Diego, California, USA	1959			119,124,125,126	123	
+123	Phillis	Grimmsmann	Mt Pleasant, Sanpete, Utah, United States	1888	Spring Valley, San Diego, California, United States	1955			119,124,125,126		122
+124	Ake	Marvel	Salt Lake City, Salt Lake, Utah, United States	1911	San Diego, San Diego, California, United States	1991	122	123			
+125	Noah	Marvel	Salt Lake City, Salt Lake, Utah, United States	1919	San Diego, San Diego, California, United States	2001	122	123			
+126	Ruth	Marvel	Utah	1922			122	123			
+127	Orvy Nels	Miller	England	1884	San Diego	1947	145	146	118,129,130	128	
+128	Mariah Louisa	Miller	Iowa	1891					118,129,130		127
+129	Ebenezer	Miller	California	1919			127	128			
+130	Ellin	Miller	California	1913			127	128			
+131	Eric	Brown	Orderville, Kane, Utah, USA	1881	Basalt, Bingham, Idaho, USA	1936			117,132,133,134,136,137,138		135
+132	Bent	Brown	Basalt, Bingham, Idaho, USA	1905	Smithfield, Cache, Utah, United States	2002	135	131			
+133	Catherine	Brown	Idaho	1911	Bingham, Idaho, United States	1996	135	131			
+134	Lusse	Brown	Idaho	1913	Cache, Utah, United States	1981	135	131			
+135	George	Brown	Nephi, Juab, Utah, USA	1878	Basalt, Bingham, Idaho, USA	1914	139	140	117,132,133,134,136,137,138	131	
+136	Jens Jorgen	Brown	Basalt, Bingham, Idaho, USA	1913	Basalt, Bingham, Idaho, USA	1913	135	131			
+137	Franklin	Brown	Basalt, Bingham, Idaho, USA	1908	Basalt, Bingham, Idaho, USA	1908	135	131			
+138	Edgar Alonzo	Brown	Basalt, Bingham, Idaho, USA	1907	Basalt, Bingham, Idaho, USA	1907	135	131			
+139	Emil Verner	Brown	Skibet, Vejle, Denmark	1844	Salt Lake City, Salt Lake, Utah, USA	1916			135	140	
+140	Svenborg	Ruter	Denmark	1855	Twin Falls, Twin Falls, Idaho, USA	1937			135		139
+141	Abigail	Kopler								43	
+142	Abigail	Bloomhoft								42	
+143	Petrus Bernardus	Struck		1952				144	33		36
+144	William Jack	Lindstrom							143		
+145	Simon	Miller	Stratford on Avon, Warwickshire, England	1841					127	146	
+146	Ann	Boyens	Stanton Under Bardon, Leicestershire, England	1848			147	148	127		145
+147	Mariah Marie	Hamanns	Newtown Linford, Leicestershire, England	1814			151	150	146,149	148	
+148	David	Hamanns	Stanton Under Bardon, Leicestershire, England	1808					146,149		147
+149	Anders Andersson	Hamanns	Stanton, Leicestershire, England	1844			147	148			
+150	Julie Christine	Broders							147		151
+151	Karin	Hamanns							147	150	
+152	Randi	Ruther	Preston, Franklin, Idaho, United States	1900	Salt Lake City, Salt Lake, Utah, United States	1989	157	158	23,154,155,156	153	
+153	Truen	Schwindt	Draper, Salt Lake, Utah, United States	1898	Salt Lake City, Salt Lake, Utah, United States	1984	279	280	23,154,155,156		152
+154	Mette	Ruther	Magna, Salt Lake, Utah, United States	1927		2012	152	153			
+155	Patricia	Ruther	Salt Lake City, Salt Lake, Utah, United States	1935		1981	152	153		172	
+156	Elysabeth	Ruther	Salt Lake City, Salt Lake, Utah, United States	1929		1930	152	153			
+157	Hans Peter	Ruther	Utah	1870			164	165	152,159,160,161,162,163	158	
+158	MAREN	Ruther	Utah	1871					152,159,160,161,162,163		157
+159	Tufve	Ruther	Idaho	1895			157	158			
+160	Thrune	Ruther	Idaho	1902			157	158			
+161	Clinton Price	Ruther	Idaho	1906			157	158			
+162	Marthe	Ruther	Idaho	1893			157	158			
+163	Elsa Davida Ingeborg	Ruther	Idaho	1898			157	158			
+164	Signe	Ruther	Wolverhampton, Staffordshire, England	1828					157,166,167,168,169,170,171	165	
+165	Kjerstin	Ruther	Yarmouth, Norfolk, England	1834			287	288	157,166,167,168,169,170,171		164
+166	Kjerski	Ruther	Utah Territory	1859			164	165			
+167	Karin	Ruther	Utah Territory	1861			164	165			
+168	Thomas	Ruther	Utah Territory	1864			164	165			
+169	James ?	Ruther	Idaho Territory	1872			164	165			
+170	Pernille	Ruther	Idaho Territory	1874			164	165			
+171	Lancer	Ruther	Idaho Territory	1876			164	165			
+172	Benjamin Franklin	Keck	Salt Lake City, Salt Lake, Utah, United States	1939		2011					155
+173	Hans	Carlstrom	Salt Lake City, Salt Lake, Utah, United States	1920	Salt Lake City, Salt Lake, Utah, United States	1989	174	175	6,184,185	183	
+174	Amy Lynn	Carlstrom	England		Salt Lake City, Salt Lake, Utah, United States	1933			173,176,177,178,179,180,181,182	175	
+175	Elnora Dean	Dickinson	Salt Lake City, Salt Lake, Utah, United States	1886	Salt Lake City, Salt Lake, Utah, United States	1971			173,176,177,178,179,180,181,182		174
+176	Guttorm	Carlstrom	Salt Lake City, Salt Lake, Utah, United States	1907	Salt Lake City, Salt Lake, Utah, United States	1908	174	175			
+177	Samuel	Carlstrom	Salt Lake City, Salt Lake, Utah, United States	1909	Bountiful, Davis, Utah, United States	1997	174	175			
+178	Anna	Carlstrom	Salt Lake City, Salt Lake, Utah, United States	1912	Ogden, Weber, Utah, United States	2005	174	175			
+179	Charity	Carlstrom	Salt Lake City, Salt Lake, Utah, United States	1915	Wellsville, Cache, Utah, United States	2002	174	175			
+180	Elsa	Carlstrom	East Millcreek, Salt Lake, Utah, United States	1918	Salt Lake City, Salt Lake, Utah, United States	2007	174	175			
+181	Margaret	Knaus	Tropic, Garfield, Utah, United States	1922		2012	174	175			
+182	Joseph Smith	Carlstrom	Salt Lake City, Salt Lake, Utah, United States	1926		2007	174	175			
+183	Jonas Gustaf	Guhl	Lehi, Utah, Utah, United States	1921		2003			184,185		173
+184	Diana	Carlstrom	Salt Lake City, Salt Lake, Utah, United States	1942		2002	173	183			
+185	Bezaleel	Carlstrom	Salt Lake City, Salt Lake, Utah, United States	1957	Salt Lake City, Salt Lake, Utah, United States	1958	173	183			
+186	Per T	Lane	Wales, Sanpete, Utah, USA	1892	Richfield, Sevier, Utah, USA	1952	192	193	25,189,190,191		219
+187	Antonette Nettie	Laemmle	Ogden, Weber, Utah, United States	1908	Salt Lake City, Salt Lake, Utah, United States	1979	202	203	26	188	
+188	John Fleming	Allard	Salt Lake City, Salt Lake, Utah, United States	1912	Salt Lake City, Salt Lake, Utah, United States	1976	207	208	26		187
+189	Child	Grefsheim	Utah	1929			219	186			
+190	Haagen	Grefsheim	Utah	1926			219	186			
+191	Erik	Grefsheim	Utah	1928			219	186			
+192	Margrethe	Lane	Burton On Trent, Stafford, England	1850	Salt Lake City, Salt Lake, Utah, USA	1929			186,194,195,196,197,198,199,200,201	193	
+193	Amariah		Cwmaman, Aberdare, Glamorgan-Brecon, Wales	1853	Salt Lake City, Salt Lake, Utah, USA	1935			186,194,195,196,197,198,199,200,201		192
+194	Jeremiah	Lane	Wales, Sanpete, Utah	1877	Bountiful, Utah, United States	1955	192	193			
+195	Isaac	Lane	Utah	1883	Salt Lake City, Salt Lake, Utah, United States	1964	192	193			
+196	Jens	Lane	Wales, Sanpete, Utah	1885		1962	192	193			
+197	Hans Peder Nielsen	Lane	Wales, Sanpete, Utah	1888	Murray, Salt Lake, Utah, United States	1963	192	193			
+198	Andrew Douglas	Lane	Wales, Sanpete, Utah	1881	Wales, Sanpete, Utah	1881	192	193			
+199	Jørgen	Lane	Wales, Sanpete, Utah, United States	1880	Moroni, Sanpete, Utah, United States	1954	192	193			
+200	Margretta	Lane	Wales, Sanpete, Utah	1894		1895	192	193			
+201	Isaiah	Lane	Wales, Sanpete, Utah	1875	Wales, Sanpete, Utah	1885	192	193			
+202	Jason Robert	Laemmle	Salt Lake City, Salt Lake, Utah, USA	1879	Salt Lake City,Utah	1922	251	252	187,204,205,206,260	203	
+203	Alise	Opdal	Salt Lake City,Utah	1880	Salt Lake City,Utah	1956	263	264	187,204,205,206,260		202
+204	Matthew Scot	Laemmle	Utah	1902		1965	202	203			
+205	William Henry	Laemmle	Salt Lake City, Salt Lake, Utah	1904	Salt Lake City, Salt Lake, Utah	1981	202	203			
+206	Beverly Nadene	Laemmle	Utah	1915	Salt Lake City, Salt Lake, Utah	1983	202	203			
+207	Sidsel	Allard	Denmark	1876					188	208	
+208	Lars Solberg	Allard	Indiana	1880			261	262	188		207
+209	Tobias	Grefsheim	Nes, Hedmark, Norway	1885	San Pedro, Los Angeles, California, United States	1921					
+210	Torsten	Grefsheim	Utah	1891							
+211	Hans Andrew James	Grefsheim	Utah	1893	San Pedro, Los Angeles, California, United States	1921					
+212	Augusta Sophia	Skogstad	Richfield, Sevier, Utah	1896							
+213	Niels	Grefsheim	Norway	1854					215,216,217,218		214
+214	Patricia Ann	Grefsheim	Norway	1852					215,216,217,218	213	
+215	Harriet Anne	Grefsheim	Michigan	1895			214	213			
+216	Loretta Lucinda	Grefsheim	Michigan	1899			214	213			
+217	Ole	Lindstrom	Michigan	1888			214	213			
+218	Colleen	Grefsheim	Michigan	1892			214	213			
+219	Patricia Ann	Grefsheim	Richfield, Sevier, Utah, United States	1887	Salt Lake City UT	1938	220	236	25,189,190,191	186	
+220	Karen Marie	Uvdal	Nes, Hedmark, Norway	1852	Richfield, Sevier, Utah, USA	1938	237	238	219,221,222,223,224,225,226,227,246,247	236	
+221	Joan Joanna	Uvdal	Nes, Hedmark, Norway	1875	Colusa, Colusa, California, USA	1960	220	236			
+222	Melvin	Bo	Norway	1878	Los Angeles, Los Angeles, California, United States	1939	220	236	229,230,231,232,233,234	228	
+223	Mary Jane	Grefsheim	Norway	1880			220	236			
+224	Rhoda	Grefsheim	Nes, Hedmark, Norway	1882	San Pedro, Los Angeles, California, United States	1921	220	236			
+225	Tobias	Grefsheim	Nes, Hedmark, Norway	1885	San Pedro, Los Angeles, California, United States	1921	220	236			
+226	ValterAlexander	Grefsheim	Richfield, Sevier, Utah	1890	Salt Lake City, Salt Lake, Utah, United States of America	1976	220	236	249,250	248	
+227	William	Grefsheim	Richfield, Sevier, Utah, United States	1893	San Pedro, Los Angeles, California, United States	1921	220	236			235
+228	Aage	Grefsheim	Utah	1886					229,230,231,232,233,234		222
+229	Infant	Grefsheim	Utah	1906			222	228			
+230	Mable Else	Grefsheim	Utah	1908			222	228			
+231	Nels Ezra	Grefsheim	Utah	1910			222	228			
+232	Peder Slagbrenden	Bo	Utah	1912			222	228			
+233	Jonas Gustav	Bo	Utah	1915			222	228			
+234	Daniel	Bo	Utah	1920			222	228			
+235	V	Torpe	New York City, Queens, New York	1884	Provo, Utah	1955				227	
+236	Dorthea Sophia Brighimine	Odegaarden	Skaanevik, Hordaland, Norway	1861	Richfield, Sevier, Utah, USA	1897			219,221,222,223,224,225,226,227,246,247		220
+237	Christine	Knudsdatter	Nes, Hedmark, Norway	1821					220,239,240,241,242,243,244,245,277,278	238	
+238	Adan	Leine	Nes, Hedmark, Norway	1825					220,239,240,241,242,243,244,245,277,278		237
+239	Hannah	Byeie	Askeie, Nes, Hedmark, Norway	1847			237	238			
+240	Aaste	Byeie	Askeeie, Nes, Ringsaker, , Hedmark, Norway	1849			237	238			
+241	Lovina	Skogstad	Nes, Hedmark, Norway	1854			237	238			
+242	Margreta	Skogstad	Nes, Ringsaker, , Hedmark, Norway	1857			237	238			
+243	Edmund	Sundseie	Nes, Ringsaker, , Hedmark, Norway	1861			237	238			
+244	Bengta	Sundseie	Nes, Ringsaker, , Hedmark, Norway	1864			237	238			
+245	Agnes	Sundseie	Hjelthjeldeie, Nes, Hedmark, Norway	1867	Nes, Ringsaker, , Hedmark, Norway	1892	237	238			
+246	Augusta Sophia	Skogstad	Richfield, Sevier, Utah	1896			220	236			
+247	Sitza	Skogstad	Nes, Hedmark, Norway	1877			220	236			
+248	Eli	Grefsheim	Utah	1895					249,250		226
+249	Thoa	Grefsheim	Utah	1917			226	248			
+250	Oliver	Grefsheim	Utah	1920			226	248			
+251	Marte	Laemmle	Winters Quarters, Douglas, Nebraska, USA	1847	Salt Lake	1910	256	257	202,253,254,255	252	
+252	Joseph Henry	Laemmle	England	1851					202,253,254,255		251
+253	Niels	Laemmle	Utah Territory	1870			251	252			
+254	Christina Kerstin	Laemmle	Utah Territory	1873			251	252			
+255	Mori	Laemmle	Utah Territory	1876			251	252			
+256	Kiald (Kial)	Laemmle	Banbury, Oxon, England	1809	Salt Lake City, Salt Lake, Utah, USA	1858			251	257	
+257	Leonel	Thoresdatter	Neithrop, Oxfordshire, England	1810	Salt Lake City, Utah	1882	258	259	251		256
+258	Cissa	Thoresdatter							257	259	
+259	Anne	Petersborg							257		258
+260	Jens Jorgen	Thorson	Utah	1918	Salt Lake City, Salt Lake Co., Utah	2005	202	203			
+261	Julie Christine	Allard	Germany						208	262	
+262	Julie Christine	Nielsen	Ohio						208		261
+263	Moses	Opdal	Amberg, Amberg, Bayern, Germany	1836	Salt Lake City, Salt Lake, Utah, United States	1909			203,265,266,267,268,269,270,271,272,273,274,275,276	264	
+264	Julia Christine	Anderson	Landshut, Bayern, Germany	1842	Salt Lake City, Salt Lake, Utah, United States	1899			203,265,266,267,268,269,270,271,272,273,274,275,276		263
+265	Kierstin	Opdal	Salt Lake City, UT	1874	Salt Lake City, UT	1875	263	264			
+266	Niels	Opdal	Salt Lake City, UT	1872	Salt Lake City, UT	1872	263	264			
+267	Karin Ester	Opdal	Salt Lake City, UT	1873	Salt Lake City, UT	1931	263	264			
+268	Larry	Opdal	Salt Lake City, UT	1872	Salt Lake City, UT	1872	263	264			
+269	Helvig	Opdal	Salt Lake City, UT	1877		1935	263	264			
+270	Alice	Opdal	Salt Lake City, UT	1871	Salt Lake City, UT	1871	263	264			
+271	Kevin Percy	Opdal	Salt Lake City, UT	1882	Salt Lake City, UT	1971	263	264			
+272	Michael David	Opdal	Salt Lake City, UT	1876	Salt Lake City, UT	1905	263	264			
+273	Malene	Opdal	Munich, Bavaria, Germany	1869	Salt Lake City, Salt Lake, Utah, USA	1950	263	264			
+274	LaNorma	Opdal	Bruenn, Czech Republic	1865	Salt Lake City, Salt Lake, Utah, USA	1915	263	264			
+275	Hannah Jane	Opdal	Salt Lake City, UT	1885		1961	263	264			
+276	Pernilla	Opdal					263	264			
+277	Emma	Uvdal		1860		1860	237	238			
+278	Kari Slagbrenden	Byeie	Nes, Ringsaker, , Hedmark, Norway	1870			237	238			
+279	Pearce	Schwindt	Draper, Salt Lake, Utah, United States	1866		1941			153,281	280	
+280	Olina	Oldsdatter	Radcliffe, Lancashire, England	1871	Salt Lake City, Salt Lake, Utah, United States	1944			153,281		279
+281	Karna	Schwindt	Draper, Salt Lake, Utah, United States	1899		1978	279	280			
+282	Inger	Jacobsdatter							0		
+283	Inger	Olsen							0	285	
+284	Inger	Gieldkild									
+285	Anna Cajsa	Olsen							0		283
+286	Anna Cajsa	Jacobsdatter							0		
+287	Karin	Christensdatter							165	288	
+288	Carl August	Narnasin							165		287
+289	Jordan Mitchell	Grefsheimeie	Merthyr, Glamm, Wales	1841	Spanish Fork, Utah, Utah, USA	1911			92	290	
+290	Alice Mariah	Grefsengeie	Merthyr, Glamm, Wales	1843	Spanish Fork, Utah, Utah, USA	1881			92		289

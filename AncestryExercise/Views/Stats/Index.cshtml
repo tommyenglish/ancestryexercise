@@ -1,0 +1,21 @@
+﻿@model AncestryExercise.ViewModels.Stats
+@{
+    ViewBag.Title = "Stats";
+}
+
+<h2>Statistics</h2>
+<p>
+    Mean age for those with an age is @Model.Mean.
+</p>
+<p>
+    Median age for that same group is @Model.Median.
+</p>
+<p>
+    The quartiles are @Model.Quartile25 and @Model.Quartile75.
+</p>
+<p>The youngest moms are:
+    @foreach (var momAge in Model.Awards.YoungestMoms)
+    {
+        <span>@momAge.mom.FullName at age @momAge.age. </span> 
+    }
+</p>
